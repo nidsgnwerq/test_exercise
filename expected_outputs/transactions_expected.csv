@@ -1,0 +1,7 @@
+client, available, held, total, locked
+1, 1.0, 0, 1.0, False
+2, 5.0, 0.0, 5.0, False
+3, 400.0, 0, 400.0, False
+4, 10000.0, 0, 10000.0, False
+6, 0.0, 0.0, 0.0, True
+7, 200.0, 0, 200.0, False
