@@ -2,7 +2,7 @@
 
 # In case you have python3.8 already installed install requirements and you are ready to go:
 ```
-pip install -r requirementse.txt
+pip install -r requirements.txt
 ```
 
 # In case you want to create virtual env
@@ -20,7 +20,7 @@ source ~/venvs/3.8_for_test/bin/activate
 ```
 4. Install requirements
 ```
-pip install -r requirementse.txt
+pip install -r requirements.txt
 ```
 5. Don't forget to configure this env as project interpreter
 
